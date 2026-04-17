@@ -1,5 +1,11 @@
-# 💫 About Me:
-i'm currently learning data analyst<br>i am uiux designer<br>machine learning<br>a software engineer,<br>i am python developer<br>
+## 👋 About Me
+
+Software Engineer | Data Analyst | UI/UX Designer | Python & C++ Developer  
+
+Passionate about creating intuitive designs and data-driven solutions.  
+Currently exploring Data Analytics (Power BI, SQL, Python, Excel) and Machine Learning.
+
+🚀 Turning ideas into impactful digital experiences.
 
 
 ## 🌐 Socials:
