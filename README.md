@@ -1,11 +1,29 @@
-## 👋 About Me
+<h1 align="center">Hi 👋, I'm Fatima Shafique</h1>
 
-Software Engineer | Data Analyst | UI/UX Designer | Python & C++ Developer  
+<h3 align="center">💻 Software Engineer | 🎨 UI/UX Designer | 🤖 ML Enthusiast | 📊 Aspiring Data Analyst</h3>
 
-Passionate about creating intuitive designs and data-driven solutions.  
-Currently exploring Data Analytics (Power BI, SQL, Python, Excel) and Machine Learning.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Software+Engineer;UI%2FUX+Designer;Machine+Learning+Enthusiast;Data+Analytics+Learner;Python+%26+C%2B%2B+Developer" />
+</p>
 
-🚀 Turning ideas into impactful digital experiences.
+---
+
+## 🚀 About Me
+
+- 💻 I’m a **Software Engineer** passionate about building impactful digital solutions  
+- 🎨 Skilled in **UI/UX Design**, creating clean & user-friendly interfaces  
+- 🤖 Have experience in **Machine Learning models**  
+- 📊 Currently learning **Data Analytics (Power BI, SQL, Excel)**  
+- 🧠 Love combining **Design + Data + Code**  
+
+---
+
+## 🔥 Current Focus
+
+- 📊 Data Analytics Projects (Power BI Dashboards)  
+- 🐍 Python for Data Science & ML  
+- 📈 SQL for Data Handling  
+- 🎨 Advanced UI/UX Design in Figma  
 
 
 ## 🌐 Socials:
@@ -20,6 +38,27 @@ Currently exploring Data Analytics (Power BI, SQL, Python, Excel) and Machine Le
 
 ---
 [![](https://komarev.com/ghpvc/?username=Fatima-Shafique16&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📌 Featured Projects
+
+- 📊 **Power BI Sales Dashboard**  
+- 🤖 **Machine Learning Prediction Models**  
+- 🎨 **UI/UX Mobile App Designs (Figma)**  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+✨ I turn ideas into **beautiful designs + smart systems + data-driven insights** 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
