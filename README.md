@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile_pic.jpeg" width="150" height="150" style="border-radius:50%;" alt="Fatima Shafique"/>
+</p>
+
 <img width="733" height="417" alt="image" src="https://github.com/user-attachments/assets/8eeeec1d-81ca-49c3-b9f5-63f11e854678" /><h1 align="center">Hi 👋, I'm Fatima Shafique</h1>
 
 <h3 align="center">💻 Software Engineer | 🎨 UI/UX Designer | 🤖 ML Enthusiast | 📊 Aspiring Data Analyst</h3>
@@ -37,6 +41,9 @@
   </a>
   <a href="https://www.tiktok.com/@uiux.designer1604?_r=1&_t=ZS-95bpg4bsZYV" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://fatima-portfolio2567.netlify.app/#home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 
   <a href="mailto:missdeveloper1604@gmail.com">
