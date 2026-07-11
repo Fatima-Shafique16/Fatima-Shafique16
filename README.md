@@ -39,8 +39,7 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://fatima-portfolio2567.netlify.app/#home" target="_blank">
-    <img src=<img width="733" height="417" alt="image" src="https://github.com/user-attachments/assets/aafca976-4193-43b5-b821-9ab73390ae6b" />
- alt="Portfolio"/>
+    <img src="https://img.magnific.com/premium-vector/portfolio-creative-text-banner-with-black-background-illustration_755074-98.jpg?semt=ais_hybrid&w=740&q=80" alt="Portfolio"/>
   </a>
   <a href="mailto:missdeveloper1604@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
