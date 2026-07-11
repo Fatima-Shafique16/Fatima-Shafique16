@@ -1,4 +1,4 @@
-<img width="733" height="417" alt="image" src="https://github.com/user-attachments/assets/8eeeec1d-81ca-49c3-b9f5-63f11e854678" /><h1 align="center">Hi 👋, I'm Fatima Shafique</h1>
+<img width="733" height="417" alt="image" src="D:\Designs\designs UIUX\profile pic.jpeg" /><h1 align="center">Hi 👋, I'm Fatima Shafique</h1>
 
 <h3 align="center">💻 Software Engineer | 🎨 UI/UX Designer | 🤖 ML Enthusiast | 📊 Aspiring Data Analyst</h3>
 
