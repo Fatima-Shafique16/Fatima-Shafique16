@@ -38,9 +38,7 @@
   <a href="https://www.tiktok.com/@uiux.designer1604?_r=1&_t=ZS-95bpg4bsZYV" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://fatima-portfolio2567.netlify.app/#home" target="_blank">
-    <img src="https://img.magnific.com/premium-vector/portfolio-creative-text-banner-with-black-background-illustration_755074-98.jpg?semt=ais_hybrid&w=740&q=80" alt="Portfolio"/>
-  </a>
+
   <a href="mailto:missdeveloper1604@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
