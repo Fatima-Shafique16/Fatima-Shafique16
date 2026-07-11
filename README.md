@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="profile_pic.jpeg" width="150" height="150" style="border-radius:50%;" alt="Fatima Shafique"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Fatima Shafique</h1>
 
